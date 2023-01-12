@@ -1,0 +1,6 @@
+@reboot /home/admin01/ejercicios_shell_script/ut8p4e4.sh
+*/5 * * * * /home/admin01/ejercicios_shell_script/ut8p4e5.sh
+*/10 * * * * /home/admin01/ejercicios_shell_script/ut8p4e6.sh
+00 02 * * 0 /home/admin01/ejercicios_shell_script/ut8p4e7.sh
+*/2 * * * * /home/admin01/ejercicios_shell_script/ut8p4e8.sh
+0 1 * * * /home/admin01/ejercicios_shell_script/ut8p4e10.sh
