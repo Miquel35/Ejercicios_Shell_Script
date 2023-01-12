@@ -1,0 +1,2 @@
+alta,miquel,martin,martos,grp1
+alta,pepe,botella,licor
